@@ -1,6 +1,6 @@
 # Kaggle
 
-A place to explore Kaggle.com machine learning challenges.
+A place to explore Kaggle.com machine learning challenges. To begin I reinterpret the tutorials online.
 
 1. I begin by expanding the Kaggle tutorial on how to use NumPy and CSV packages in "1. Titanic - NumPy and CSV packages.ipynb" - this makes a model based on "train.csv" and applies it to "test.csv". I output two predictions - a "1a. ModelBasedonGenderAlone.csv", and then a "1b. ModelBasedonGenderClass.csv"  
 
